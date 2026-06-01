@@ -12,8 +12,6 @@ This repository contains my 30-day Figma learning journey.
 - Spacing
 - Basic Login UI Design
 
-### Preview
-Day -1 Login Page.png
 
 ## Day 2 - Sign Up Page
 
@@ -25,5 +23,4 @@ Skills Learned:
 - Typography
 - Alignment
 
-Screenshot:
-Day-2-SignUp-Page.png
+
