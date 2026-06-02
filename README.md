@@ -23,4 +23,19 @@ Skills Learned:
 - Typography
 - Alignment
 
+  ## Day 3 - Forgot Password Page
+
+### Skills Learned
+
+* Form Design
+* Email Input Field
+* Buttons
+* Typography
+* Spacing and Alignment
+
+### Output
+
+Day-3-Forgot-Password.png
+
+
 
