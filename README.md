@@ -37,5 +37,20 @@ Skills Learned:
 
 Day-3-Forgot-Password.png
 
+Day 4 - OTP Verification Screen
 
+Today I designed an OTP Verification Screen in Figma.
+
+Skills Learned:
+
+• OTP Input Design
+• Input Fields
+• Buttons
+• Typography
+• Alignment
+• Spacing
+• Mobile UI Design
+
+Tool Used:
+Figma
 
