@@ -71,3 +71,21 @@ Skills Learned:
 Tool Used:
 Figma
 
+Day 6 - UI/UX Learning App Home Screen
+
+Today I designed a UI/UX Learning App Home Screen in Figma.
+
+Skills Learned:
+
+• Home Screen Design
+• Search Bar Design
+• Category Buttons
+• Course Cards
+• Typography
+• Alignment
+• Spacing
+• Mobile UI Design
+
+Tool Used:
+Figma
+
