@@ -53,4 +53,21 @@ Skills Learned:
 
 Tool Used:
 Figma
+Day 5 - Profile Screen Design
+
+Today I designed a Profile Screen in Figma.
+
+Skills Learned:
+
+• Profile UI Design
+• User Information Cards
+• Typography
+• Alignment
+• Spacing
+• Button Design
+• Visual Hierarchy
+• Mobile UI Design
+
+Tool Used:
+Figma
 
